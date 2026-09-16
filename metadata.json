@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Review Sentiment Analyzer",
+  "description": "Real-time NLP sentiment analysis, aspect breakdown, emotion detection, and buyer intent intelligence for Amazon product reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
